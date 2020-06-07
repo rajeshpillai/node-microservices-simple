@@ -1,0 +1,22 @@
+
+.app-header {
+  background-color: #771773b8;
+  color: white;
+  padding: 5px;
+}
+
+.post-form-container {
+  padding: 10px;
+  border: 1px solid lightgray;
+  background-color: #edf2f1;
+}
+.post-list-container {
+  margin-top: 10px;
+  background: #f3f1f1;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.post-form {
+
+}
