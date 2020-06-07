@@ -30,10 +30,10 @@ The comment moderation microservice
 - query
 The query microservice
 
-- event-buse
+- event-bus
 The custom node.js event bus
 
-gateway
-- A node.js proxy server which serves as an entry oint for all microservices
+- gateway/proxy
+ A node.js proxy server which serves as an entry point for all microservices
 
 
